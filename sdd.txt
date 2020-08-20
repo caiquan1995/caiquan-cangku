@@ -1,2 +1,1 @@
-[credential]
-  helper = store
+一顿能吃八万饭的远远
