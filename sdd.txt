@@ -1,1 +1,2 @@
-sss010
+[credential]
+  helper = store
